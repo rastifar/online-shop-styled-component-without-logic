@@ -1,5 +1,5 @@
 ## Project Preview Link
-[See Project](online-shop-styled-component-without-logic)
+[See Project](https://rastifar.github.io/online-shop-styled-component-without-logic)
 
 ## Project Overview
 
